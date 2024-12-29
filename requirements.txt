@@ -7,7 +7,7 @@ bs4
 arxiv
 pymupdf
 wikipedia
-U duckduckgo-search
+duckduckgo-search
 langchain-text-splitters
 langchain-openai
 chromadb
