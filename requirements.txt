@@ -8,3 +8,4 @@ groqflow
 langchain_groq
 arxiv
 wikipedia
+python3-distutils
